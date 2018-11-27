@@ -1,2 +1,2 @@
 # SnapCut-Implementation
-Implementation of the SnapCut image processing pipeline that segments foreground objects within videos.
+Implementation of the SnapCut (Rotobrush) image processing pipeline that segments foreground objects within videos.
